@@ -1,0 +1,6 @@
+IdVenda	DataVenda	IdCliente	NomeCliente	ValorVenda
+1111	10/01/2017	001		Cliente A	110,00		
+2222	15/01/2017	002		Cliente B	120,00
+3333	20/01/2017	003		Cliente C	130,00
+4444	20/01/2017	004		Cliente D	140,00
+5555	23/01/2017	005		Cliente E	150,00	

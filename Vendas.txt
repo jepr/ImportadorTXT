@@ -1,0 +1,6 @@
+IdVenda	DataVenda	IdCliente	NomeCliente	VlrVenda
+1111	10/01/2017	1	Joao Eudes Paulo Reis	110,15
+2222	15/01/2017	2	Deonice Godoy dos Reis	120,12
+3333	20/01/2017	3	Tatiane Reis Martins	130,49
+4444	20/01/2017	4	Daniel Godoy dos Reis	140,5
+5555	23/01/2017	5	Vinicius Martins	150,25
